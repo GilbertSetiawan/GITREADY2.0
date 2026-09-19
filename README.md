@@ -21,8 +21,8 @@ Project kolaborasi tim untuk membuat tampilan website BNCC menggunakan Git dan G
 | Anggota | Username GitHub | Peran | Kontribusi |
 |---|---|---|---|
 | Gilbert Brian Setiawan | GilbertSetiawan | Project Initiator | Membuat repository, mengatur akses tim, menambahkan index.html, me-review Pull Request, dan menyusun dokumentasi |
-| Javier Austin | ISI_USERNAME | ISI_PERAN | ISI_KONTRIBUSI |
-| ISI_NAMA_ANGGOTA_3 | ISI_USERNAME | ISI_PERAN | ISI_KONTRIBUSI |
+| Javier Austin | @iceyqwer | Styling Engineer | Mengerjakan tampilan di branch `Styling`, menambahkan `style.css`, menghubungkannya ke `index.html` dengan tag `<link>`, lalu membuat Pull Request #1 ke `main` |
+| Gabriel Gregory Aaron Sjarif | @gugugagaaron | Scripting Engineer | Mengerjakan interaktivitas di branch `Scripting`, menambahkan `script.js`, menghubungkannya ke `index.html` dengan tag `<script>`, lalu membuat Pull Request #2 ke `main` |
 
 ## What I Learned
 - Membuat repository, clone, commit, dan push dengan Git
