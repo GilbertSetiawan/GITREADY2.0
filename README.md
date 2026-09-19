@@ -3,7 +3,7 @@
 Project kolaborasi tim untuk membuat tampilan website BNCC menggunakan Git dan GitHub, dengan alur kerja branch, Pull Request, dan code review.
 
 ## Visualisasi
-![Uploading image.png…]()
+https://drive.google.com/file/d/1z2STwJmFivljM6suPj3w8J9TLLih5uzi/view?usp=sharing
 
 
 ## Tech Stack
